@@ -1,0 +1,158 @@
+header {
+    background-image: url('zenith-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+    color: white;
+    text-align: center;
+
+
+    padding: 40px;
+    border: 40px;
+}
+
+    header h1 {
+        font-size: 40px;
+    }
+
+
+main {
+    
+
+
+}
+    
+.h1 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: auto;
+}
+.h2 {
+    margin-top: -10%;
+    margin-left: 15%;
+    margin-right: auto;
+}
+
+
+.text1 {
+    margin-right: 60%;
+}
+.text2 {
+    margin-right: 45%;
+    transform: translateY(-115px);
+}
+.text3 {
+    margin-left: -30%;
+    transform: translateY(-225px);
+}
+.text4 {
+    margin-left: -17%;
+    transform: translateY(-320px);
+}
+
+
+.IMG_1 {
+    display: block;
+    margin-left: 19%;
+    margin-right: auto;
+}
+.IMG_2 {
+    display: block1;
+    margin-left: -45%;
+    margin-right: auto;
+    transform: translateY(-110px);
+}
+.IMG_3 {
+    display: block2;
+    margin-left: -30%;
+    margin-right: auto;
+    transform: translateY(-220px)
+}
+.IMG_4 {
+    display: block3;
+    margin-left: -17%;
+    margin-right: auto;
+    transform: translateY(-315px)
+}
+
+
+.square1 {
+    width: 20px;
+    height: 20px;
+    background-color: darkgray; 
+    border-radius: 4px; 
+    
+    margin-left: 15%;
+}
+.square2 {
+    width: 20px;
+    height: 40px;
+
+    background-color: saddlebrown;
+    border-radius: 4px;
+
+    margin-top: 0.7%;
+    margin-left: 15%;
+}
+.square3 {
+    width: 20px;
+    height: 40px;
+
+    background-color: saddlebrown;
+    border-radius: 4px;
+
+    margin-top: 0.7%;
+    margin-left: 15%;
+}
+.square4 {
+    width: 20px;
+    height: 60px;
+
+    background-color: orange;
+    border-radius: 4px;
+
+    margin-top: 0.7%;
+    margin-left: 15%;
+}
+.hr1 {
+    border: 1.5px solid gray;
+    
+    margin-top: -17.5%;
+    width: 40%;
+    margin-left: 15%;
+}
+.hr2 {
+    border: 1.5px solid gray;
+
+    margin-top: 8.7%;
+    width: 40%;
+    margin-left: 15%;
+}
+
+.p1 {
+    margin-left: 16%;
+    margin-top: -0.1%;
+}
+.p2 {
+    margin-left: 16%;
+    margin-top: 0.9%;
+}
+.p3 {
+    margin-left: 16%;
+    margin-top: 0.9%;
+}
+.p4 {
+    margin-left: 16%;
+    margin-top: 0.7%;
+}
+.p5 {
+    color: white;
+}
+
+footer {
+    margin-top: 10%;
+    padding: 20px;
+    background-color: saddlebrown;
+}
