@@ -1,3 +1,5 @@
+"use strict";
+
 function orderBy(array, propperties) {
 
     if (!array.every(item => typeof item === 'object' && item != null && !Array.isArray(item))) {
